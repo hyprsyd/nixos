@@ -35,6 +35,7 @@
         prepend /home/myuser/.apps |
         append /usr/bin/env
         )
+        source ~/.zoxide.nu
       '';
       shellAliases = { vim = "hx"; };
     };
