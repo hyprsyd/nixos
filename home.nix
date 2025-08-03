@@ -69,6 +69,7 @@
     pkgs.carapace
     pkgs.grim
     pkgs.fastfetch
+    pkgs.speedtest-cli
     pkgs.qbittorrent-enhanced
     pkgs.handbrake
     pkgs.jetbrains.goland
